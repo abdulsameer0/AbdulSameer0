@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AbdulSameer0">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Abdul%20%Sameer%" alt="Abdul Sameer" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Abdul%20Sameer" alt="Abdul Sameer" /></a>
 </p>
 
 <p align="center">
