@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/AbdulSameer0">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Abdul Sameer" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Abdul%20%Sameer%" alt="Abdul Sameer" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/AbdulSameer0/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20%20and%20Angular%20developer;Experienced%20UI%2FUX%20Designer;%2B2 years and more then%20of+coding+exp.;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20%20and%20Angular%20developer;Experienced%20UI%2FUX%20Designer;%2B2 years%20of+coding+experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
