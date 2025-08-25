@@ -78,7 +78,7 @@
 ## 🤝 Let’s Connect
 
 - 📧 Email: [abdulsameer9685@gmail.com](mailto:abdulsameer9685@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn URL Here]([#](https://www.linkedin.com/in/abdulsameer0/))
+- 🔗 LinkedIn: [Your LinkedIn URL Here](https://www.linkedin.com/in/abdulsameer0/)
 
 ---
 
