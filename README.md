@@ -1,27 +1,46 @@
-# 🚀 Professional Profile
-
-## 👋 Hello, I'm Abdul Sameer
-
-🎯 A passionate **Java Full Stack Developer** with **3.6 years** of hands-on experience in designing and developing enterprise applications. I specialize in **Java, Spring Boot, Hibernate, PostgreSQL**, and **frontend technologies**. I enjoy building scalable applications, solving real-world problems, and learning emerging technologies.
+<!-- Header Banner -->
+<h1 align="center">🚀 Hello, I'm Abdul Sameer!</h1>
+<p align="center">
+  <strong>Java Full Stack Developer</strong> with 3.6+ years of experience in building robust and scalable enterprise applications.
+</p>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **B.Tech in Mechanical Engineering** with a strong foundation in problem-solving and logical thinking.
-- 💻 Skilled in **full-stack development** (frontend + backend) with practical experience in enterprise-level projects.
-- 📚 Currently enhancing my expertise in **Spring Boot microservices, Docker, DevOps**, and **Data Structures & Algorithms (DSA)**.
-- 🤖 Exploring AI-powered automation and chatbot projects using **n8n, OpenAI**, and **Telegram**.
+- 🎓 **B.Tech in Mechanical Engineering** with strong analytical and problem-solving skills.
+- 💻 Skilled in both **frontend** & **backend** technologies.
+- 📚 Currently learning **DSA**, **Spring Boot Microservices**, **Docker**, and **DevOps tools**.
+- 🤖 Exploring AI-powered automation and chatbot projects using <code>n8n</code>, <code>OpenAI</code>, and <code>Telegram</code>.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tools & Technologies
 
-**Backend:** Java, Spring Boot, Spring MVC, Hibernate, JDBC, JPA  
-**Frontend:** HTML, CSS, JavaScript, Thymeleaf  
-**Database:** PostgreSQL, MySQL  
-**Tools & Platforms:** Git, Maven, Docker, IntelliJ, Eclipse, n8n  
-**Others:** REST APIs, Exception Handling, JUnit, Agile Methodology
+### 🧩 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-%23404d59.svg?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+</p>
+
+### 🗃️ Database & Platforms
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6A00?style=flat&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
@@ -29,42 +48,38 @@
 
 ### 🔹 E-Filing Management System (Client: Delhi High Court)
 **Tech Stack:** Java, Spring Boot, JDBC Template, Thymeleaf, PostgreSQL  
-- Developed modules for online case filing, case tracking, and document management.  
-- Implemented role-based authentication for Lawyers, Judges, and Court Clerks.  
-- Designed REST APIs for case status tracking and document uploads.  
-- Optimized PostgreSQL queries and integrated Spring Boot Actuator.  
-- ✅ **Impact:** Reduced manual paperwork by 70% and accelerated case approvals.
+- Developed modules for online case filing, case tracking, and document handling.  
+- Role-based login for Lawyers, Judges, Clerks.  
+- Optimized queries and used Spring Actuator for monitoring.  
+✅ **Impact:** Reduced manual paperwork by **70%**.
 
 ---
 
-### 🔹 Legacy Case Filing System (Maintenance Project)
+### 🔹 Legacy Case Filing System
 **Tech Stack:** Struts 1.x, JSP, PostgreSQL  
-- Fixed bugs and enhanced existing modules.  
-- Migrated parts of the system to **Spring Boot + Thymeleaf**.  
-- Improved system reliability and document uploads.
+- Bug fixes, enhancements, and migration to Spring Boot + Thymeleaf.  
+- Improved document upload system and performance.
 
 ---
 
-### 🔹 AI Chatbot with n8n + Telegram
-**Tech Stack:** n8n, OpenAI, Telegram API, Google Sheets  
-- Built an AI-powered chatbot for auto-replies and data storage.  
-- Integrated **ChatGPT API** with Telegram via **n8n workflows**.  
-- Linked to Google Sheets for dynamic data handling.
+### 🔹 AI Chatbot – n8n + Telegram
+**Tech Stack:** n8n, OpenAI API, Telegram API, Google Sheets  
+- Built an AI chatbot with dynamic responses from Google Sheets.  
+- Automated Telegram replies using n8n workflows and ChatGPT API.
 
 ---
 
-### 🔹 Portfolio Website
+### 🔹 Personal Portfolio Website
 **Tech Stack:** HTML, CSS, JavaScript  
-- Designed a responsive personal portfolio website.  
-- Showcased sections like About, Skills, Projects, and Contact.
+- Fully responsive portfolio showcasing projects, skills, and contact info.
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: [abdulsameer9685@gmail.com](mailto:abdulsameer9685@gmail.com)
-
+- 📧 Email: [abdulsameer9685@gmail.com](mailto:abdulsameer9685@gmail.com)  
+- 🔗 LinkedIn: [Your LinkedIn URL Here](#)
 
 ---
 
-⭐ *Thanks for visiting my profile! Always open to collaborating on challenging projects, contributing to open-source, and exploring innovative technologies.*
+⭐ *Thanks for visiting! Feel free to connect, collaborate, or explore my repositories.*
