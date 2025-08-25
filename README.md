@@ -63,7 +63,7 @@
 ## 🤝 Let’s Connect
 
 - 📧 Email: [abdulsameer9685@gmail.com](mailto:abdulsameer9685@gmail.com)
-- 🔗 LinkedIn: [Add your LinkedIn link here](#)
+
 
 ---
 
